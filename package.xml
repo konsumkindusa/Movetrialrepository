@@ -11,6 +11,12 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>standard__AppLauncher</members>
+        <members>standard__Community</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>AR_CustomObject1__c.AR_Custom_Field3__c</members>
         <members>Account.Active__c</members>
         <members>Account.AutorabitExtId__c</members>
         <members>Account.CustomerPriority__c</members>
@@ -19,6 +25,8 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Aug_Demo__c.Aug_text__c</members>
+        <members>Aug_Demo__c.Type2__c</members>
         <members>Case.AutorabitExtId__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
