@@ -24,6 +24,7 @@
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
+        <members>Account.Status__c</members>
         <members>Account.UpsellOpportunity__c</members>
         <members>Aug_Demo__c.Aug_text__c</members>
         <members>Aug_Demo__c.Type2__c</members>
