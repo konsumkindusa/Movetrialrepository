@@ -33,6 +33,7 @@
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
         <members>Move_Obj__c.Move_Fld__c</members>
+        <members>Move__c.Move__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -42,6 +43,7 @@
         <members>Account</members>
         <members>Case</members>
         <members>Move_Obj__c</members>
+        <members>Move__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -55,6 +57,7 @@
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
         <members>Move_Obj__c-Move_Obj Layout</members>
+        <members>Move__c-Move Layout</members>
         <name>Layout</name>
     </types>
 </Package>
