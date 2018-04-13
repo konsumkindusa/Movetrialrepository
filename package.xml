@@ -6,6 +6,7 @@
         <members>ARApexClass4</members>
         <members>ARApexClassUAT</members>
         <members>ARApexClassUAT2</members>
+        <members>AccountCreation</members>
         <members>AccountCreationTest</members>
         <members>ArApexClass5</members>
         <name>ApexClass</name>
@@ -33,6 +34,7 @@
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
         <members>Case.SLAViolation__c</members>
+        <members>Move_Playground2__c.Move_Playground2_Fld__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -41,6 +43,7 @@
         <members>AR_UATObj2__c</members>
         <members>Account</members>
         <members>Case</members>
+        <members>Move_Playground2__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -53,6 +56,7 @@
         <members>Case-Case %28Support%29 Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
+        <members>Move_Playground2__c-Move_Playground2 Layout</members>
         <name>Layout</name>
     </types>
 </Package>
