@@ -6,6 +6,7 @@
         <members>ARApexClass4</members>
         <members>ARApexClassUAT</members>
         <members>ARApexClassUAT2</members>
+        <members>AccountCreation</members>
         <members>AccountCreationTest</members>
         <members>ArApexClass5</members>
         <name>ApexClass</name>
